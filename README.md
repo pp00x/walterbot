@@ -1,1 +1,1 @@
-# walterbot
+# walterbot - A book bot
